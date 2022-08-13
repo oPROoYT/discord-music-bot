@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@akarui/aoi.music": "^1.2.6",
+    "aoi.js": "^5.5.5"
+  }
+}
